@@ -7,15 +7,15 @@ import moment from 'moment-timezone'
 /*Oᴡɴᴇʀ number*/
 global.owner = [
   ['6285732267014', '️Oᴡɴᴇʀ One', true],
-  ['6282296747023', '️Oᴡɴᴇʀ Two', true],
+  ['6285732267014', '️Oᴡɴᴇʀ Two', true],
   ['6285732267014', '️Oᴡɴᴇʀ Three', true],
-  ['6282296747023', '️Oᴡɴᴇʀ Four', true],
+  ['6285732267014', '️Oᴡɴᴇʀ Four', true],
   ['6285732267014', '️Oᴡɴᴇʀ Five', true],
-  ['6282296747023', '️Oᴡɴᴇʀ Six', true],
+  ['6285732267014', '️Oᴡɴᴇʀ Six', true],
   ['6285732267014', '️Oᴡɴᴇʀ Seven', true],
-  ['6282296747023', '️Oᴡɴᴇʀ Eight', true],
+  ['6285732267014', '️Oᴡɴᴇʀ Eight', true],
   ['6285732267014', '️Oᴡɴᴇʀ Nine', true],
-  ['6282296747023', '️Oᴡɴᴇʀ Teen', true]
+  ['6285732267014', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -424,9 +424,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Alokxz ⁻ Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ X Wudysoft'
+global.author = 'Alokzx ⁻ MD X Wudysoft'
 global.multiplier = 69
 
 /*Pesan*/
@@ -440,14 +440,14 @@ global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
 global.dana = ['085732267014']
-global.pulsa = ['6282296747023']
+global.pulsa = ['6285732267014']
 global.trakteer = 'https://trakteer.id/wudysoft'
 global.paypal = 'wudysoft@mail.com'
-global.gopay = '6282296747023'
+global.gopay = '6285732267014'
 global.pdana = '6285732267014'
-global.povo = '6282296747023'
-global.pgopay = '6282296747023'
-global.ppulsa = '6282296747023'
+global.povo = '6285732267014'
+global.pgopay = '6285732267014'
+global.ppulsa = '6285732267014'
 global.ppulsa2 = '6285732267014'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
